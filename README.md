@@ -9,7 +9,7 @@ Web application for Motorox Automobiles (pvt) Ltd was developed for the 'Informa
 
 ### Those details can be viewed
 ![](images/view.png)
-![](images/view all.png)
+![](images/viewAll.png)
 
 ### Updating details
 ![](images/update.png)
