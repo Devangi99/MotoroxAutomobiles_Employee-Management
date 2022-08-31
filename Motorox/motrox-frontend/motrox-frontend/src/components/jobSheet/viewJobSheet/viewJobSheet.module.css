@@ -1,0 +1,34 @@
+.mainCard {
+  margin-top: 2rem;
+}
+
+.nameNumber {
+  display: inline-block;
+  margin-left: 28rem;
+  font-size: large;
+}
+
+.nameNumber label {
+  margin-top: 1rem;
+}
+
+.front {
+  text-align: left;
+}
+
+.detailsGroup {
+  display: flex;
+  justify-content: flex-start;
+  margin: 1rem 0;
+  flex-wrap: wrap;
+}
+
+.detailsGroup div {
+  flex-basis: 50%;
+  padding-left: 1rem;
+  margin: 0.5rem 0;
+}
+
+.detailsGroup div:nth-child(even) {
+  padding-left: 2.5rem;
+}

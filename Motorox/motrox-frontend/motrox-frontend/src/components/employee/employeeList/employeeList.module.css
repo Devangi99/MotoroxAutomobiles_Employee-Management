@@ -1,0 +1,60 @@
+.addUpdate {
+    background-color: #00BFFF;
+    border: none;
+    color: white;
+    padding:5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 2px;
+   
+}
+
+.actions{
+    text-align: center;
+}
+
+.aligning{
+    text-align: center;
+}
+
+.view {
+    background-color:#DAA520;
+    border: none;
+    color: white;
+    padding:5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 2px;
+   
+  }
+
+  .delete {
+    background-color:red;
+    border: none;
+    color: white;
+    padding:5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 2px;
+  
+  }
+ 
+
+  thead {
+    background-color: gray;
+    color:black;
+    text-align: center;
+} 
+

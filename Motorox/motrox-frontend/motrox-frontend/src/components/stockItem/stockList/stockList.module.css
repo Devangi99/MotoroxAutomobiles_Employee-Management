@@ -1,0 +1,25 @@
+.topContainer {
+    margin-top: 2rem;
+    height: 4rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .searchBar {
+    display: inline-flex;
+    padding-left: 50rem;
+    height: 2rem;
+  }
+  
+  .addButton .searchBar .searchBarImage {
+    border: 1px;
+  }
+
+  .table {
+    margin-top: 2rem;
+  }
+  
+  .table th {
+    width: 300px;
+  }

@@ -1,0 +1,104 @@
+#jobSheetPartButton {
+  width: 100%;
+}
+
+.form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.input_group {
+  flex-basis: 50%;
+  display: flex;
+  align-items: center;
+}
+
+.input_group input {
+  margin: 0.5rem 0;
+  margin-left: 1rem;
+  display: inline-block;
+}
+
+.input_group label {
+  width: 10rem;
+  display: inline-block;
+}
+
+.frontSide label {
+  width: 11rem;
+  display: inline-block;
+}
+
+.frontSide input {
+  width: 46rem;
+}
+
+.rearSide label {
+  width: 11rem;
+  display: inline-block;
+}
+
+.rearSide input {
+  width: 46rem;
+}
+
+.leftrightSide label {
+  width: 11rem;
+  display: inline-block;
+}
+
+.leftrightSide input {
+  width: 46rem;
+}
+
+.topSide label {
+  width: 11rem;
+  display: inline-block;
+}
+
+.topSide input {
+  width: 46rem;
+}
+
+.engineRoom label {
+  width: 11rem;
+  display: inline-block;
+}
+
+.engineRoom input {
+  width: 46rem;
+}
+
+.bottomSide label {
+  width: 11rem;
+  display: inline-block;
+}
+
+.bottomSide input {
+  width: 46rem;
+}
+
+.updateButton {
+  width: 18%;
+  display: flex;
+  flex-direction: row;
+  padding-top: 2rem;
+}
+
+.cancelButton {
+  width: 18%;
+  justify-content: flex-end;
+  margin-right: 12rem;
+  padding-top: 2rem;
+}
+
+.updateButton button {
+  width: 100%;
+}
+
+.cancelButton button {
+  width: 100%;
+}

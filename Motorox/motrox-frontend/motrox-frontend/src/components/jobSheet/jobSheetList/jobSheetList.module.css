@@ -1,0 +1,44 @@
+.topContainer {
+  margin-top: 2rem;
+  height: 4rem;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.searchBar {
+  display: inline-flex;
+  padding-left: 50rem;
+  height: 2rem;
+}
+
+.addButton .searchBar .searchBarImage {
+  border: 1px;
+}
+
+.table {
+  margin-top: 2rem;
+}
+
+.table th {
+  width: 200px;
+}
+
+.buttons {
+  display: flex;
+}
+
+.buttons button {
+  margin-right: 2px;
+  margin-left: 2px;
+  width: 4rem;
+}
+
+.delete_modal_buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.delete_modal_buttons button {
+  width: 48%;
+}
