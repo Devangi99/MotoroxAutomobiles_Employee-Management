@@ -4,11 +4,26 @@ Web application for Motorox Automobiles (pvt) Ltd was developed for the 'Informa
 ## Employee Details Management (Individual part)
 
 ### New employees are registered to the system by adding their details
+![](images/Add.png)
+![](images/add2.png)
+
 ### Those details can be viewed
+![](images/view.png)
+![](images/view all.png)
+
 ### Updating details
+![](images/update.png)
+
 ### Details of resigned employees are removed from the system
+![](images/delete.png)
+![](images/del2.png)
+
 ### Admin can search employees when needed
-### generate reports of employee details as required
+![](images/search.png)
+
+### Generate reports of employee details as required
+![](images/report.png)
+![](images/report2.png)
 
 
 ## Tools & technologies
